@@ -1,7 +1,1 @@
-echo "# Jaime" >> README.md 
-git init 
-git agregar README.md 
-git commit -m "primer compromiso" 
-git branch -M master 
-git remote agregar origen https://github.com/jaimehoward/Jaime.git
- git push - u maestro de origen
+
